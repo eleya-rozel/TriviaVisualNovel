@@ -1,0 +1,79 @@
+Bad Ends:
+- Achieved by either failing to beat a character in trivia, or getting less Good Points than Bad Points
+- Additional bad end achieved by failing to answer the final questions in the true end correctly
+
+Good End:
+- Achieved by beating all characters and getting more Good Points than Bad Points
+
+True End:
+- Achieved by beating all characters, getting all True Points, and no Bad Points, and answering the final true end questions correctly
+
+The following is a cheat sheet for answers:
+	BE = Adds Bad Points, GE = Adds Good Points, TE = Adds True Points
+
+Sodachi
+Do you like math?
+No - BE+
+Meh
+Ya - GE+
+
+Fav mathematician?
+Euler - TE+
+Aristotle
+Pythagoras
+
+Worst kind of person?
+Lazy
+Do it themselves - TE+
+Don’t respond
+
+
+Elsa
+Do you like winter?
+No - BE+
+Meh
+Ya - GE+
+
+Do you like chocolate?
+No - BE+
+Meh
+Ya - GE+
+
+Do you wanna build a snowman?
+No
+Meh
+Ya - TE+
+
+
+Master Chief
+Good at following orders?
+No
+Meh - TE+
+Ya
+
+Power of luck?
+No - BE+ 
+Meh
+Ya - GE+
+
+Cortana or Siri
+Cortana - TE+
+Meh
+Siri - BE+
+
+
+Lelouch
+Truth?
+No - TE+ 
+Meh
+Ya
+
+Forgive?
+No - BE+
+Meh - GE+
+Ya - TE+
+
+Ends justify the means
+No - BE+
+Meh
+Ya - TE+
